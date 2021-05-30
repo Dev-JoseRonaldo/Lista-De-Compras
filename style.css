@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(170, 167, 167);
+}
+h1{
+    font-size: 58px;
+    margin: 0  0 20px 0;
+}
+.app{
+    background-color: rgb(136, 136, 136);
+    box-shadow: 0px 0px 8px black;
+    padding: 2em 4em; 
+    border-radius: 10px;
+}
+ul li{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-top: 10px;
+    list-style: none;
+}
+ul{
+    padding: 0;
+    width: 45%;  
+}
+.busca{
+    display: flex;
+    justify-content:end;
+    margin: 0;
+    height: 4vh;
+    width: 100%;
+}
+#add{
+    background-color: rgb(119, 2, 2);
+    border: none;
+    border-radius: 6px;
+    width: 1.5em;
+    cursor: pointer;
+
+    color: white;
+    text-justify: center;
+    text-align: center;
+    font-size: 1.3em;
+    margin-left: 5px;
+}
+#text{
+    border: none;
+    border-radius: 6px;
+    width: 50%;
+}
+.xBtn{
+    background-color: rgb(37, 37, 37);
+    border-radius: 50%;
+    border: none;
+    margin-right: 8px;
+    cursor: pointer;
+    height: 1.7em;
+    width: 1.7em;
+
+    color: white;
+    
+   
+}
+h2{
+    width: 100%;
+    text-align: left;
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
