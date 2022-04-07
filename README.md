@@ -44,7 +44,7 @@ Baixe este repositório e com seu teminal, entre no diretório
 
 ## 🔖 Layout
 
-Você pode visualizar esse projeto no ar através [desse link](https://joseronaldo-landingpage.netlify.app/).
+Você pode visualizar esse projeto no ar através [desse link](https://joseronaldo-listacompras.netlify.app/).
 
 ## 📝 Licença
 
